@@ -80,3 +80,7 @@ console.log(arr);
 
 This is the solution for the second question.
 Thanku for listening the session.
+https://10x-react-frontend.netlify.app/
+
+langchain
+Deepinlearning.AI
